@@ -1,4 +1,4 @@
-  GNU nano 8.6                                                                               main.tf                                                                                         
+                                                                                         
 provider "aws" {
   region = "ap-south-1"
 }
